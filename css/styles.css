@@ -12,6 +12,10 @@ body{
 	float: left;
 }
 
+.about{
+	padding-top: 50px;
+	float: left;
+}
 
 div.image {
 	min-height: 300px
